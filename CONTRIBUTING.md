@@ -1,0 +1,1 @@
+Guidelines to contibute to the repo
